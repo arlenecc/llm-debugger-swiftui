@@ -111,4 +111,4 @@ Tests/LLMDebuggerTests/       # 独立测试运行器（含 MockTransport、本�
 
 ## License
 
-MIT
+GPL-3.0，详见 [LICENSE](LICENSE)
